@@ -16,7 +16,7 @@ export default defineConfig({
       provider: 'local'
     },
     footer: {
-      message: '页面内容版权归原作者所有，',
+      message: '页面内容版权归原作者所有，📮：hughadward123@gmail.com',
       copyright: '备案号：<a href="https://beian.miit.gov.cn/#/Integrated/index" target="_blank">苏ICP备2025158486号-1</a>'
     },
     nav: nav,
