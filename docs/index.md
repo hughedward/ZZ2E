@@ -25,6 +25,6 @@ features:
   - title: 一些资讯
     details: 和更多朋友一起分享前沿资讯、AI，了解DNC社群，来海边🏝️钓鱼/划桨板
   - title: 关联站点
-    details: 数字游民DNC社区，原乡映客，螺钉众包，月之回响
+    details: 数字游民DNC社区，原乡映客，螺钉众包，月之回响，还有大家
 ---
 
