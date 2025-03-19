@@ -8,4 +8,9 @@ export var nav = [
     text: "初始计划",
     link: "https://kdocs.cn/l/cdd4gfvZ62FP"
   }
+  ,
+  {
+    text: "Monstro🦑",
+    link: ""
+  }
 ]
