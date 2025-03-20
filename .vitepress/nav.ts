@@ -12,5 +12,9 @@ export var nav = [
   {
     text: "Monstro🦑",
     link: ""
+  },
+  {
+    text: "SmartTools🦭",
+    link: ""
   }
 ]
